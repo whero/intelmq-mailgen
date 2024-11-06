@@ -2,7 +2,7 @@ Source: intelmq-mailgen
 Maintainer: Sascha Wilde <wilde@intevation.de>
 Section: net
 Priority: optional
-Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9), python3-psycopg2
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9), python3-psycopg2, python3-gpg
 Standards-Version: 3.9.5.0
 
 Package: intelmq-mailgen
